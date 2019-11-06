@@ -29,7 +29,7 @@
     "express-jsend": "0.1.0",
     "indicative": "7.2.1",
     "jsonwebtoken": "8.5.1",
-    "mongoose": "5.7.1"
+    "mongoose": "5.7.8"
   },
   "devDependencies": {
     "coverage": "0.4.1",
